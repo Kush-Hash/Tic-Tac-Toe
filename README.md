@@ -34,7 +34,5 @@ This is a simple **Tic-Tac-Toe** game built using **React.js**. Play online now:
    - Publish Directory: `dist`
 3. Click "Deploy" and wait for it to go live! 🎉
 
-## License
-MIT License
 
 
